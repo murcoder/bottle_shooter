@@ -9,7 +9,7 @@ Download the folder */build* and start **Bottle Shooter.exe**
 
 
 ## Preview
-[Demo](https://vimeo.com/417596184)
-<iframe src="https://player.vimeo.com/video/417596184" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+Watch gameplay [here](https://vimeo.com/417596184).
+
 ![screenshot](Screenshots/bottle_shooter_preview.gif)
 
